@@ -1,0 +1,43 @@
+.version.engelsk_portfolio /* version checker */
+{
+	color: #000018;
+	background-color: #FFD1E0;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 99px;
+	min-height: 17px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 242px 430px 241px 431px;
+}
+
+#u87-4
+{
+	z-index: 2;
+	width: 99px;
+	min-height: 12px;
+	left: -1px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
