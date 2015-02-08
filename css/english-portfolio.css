@@ -1,7 +1,7 @@
 .version.english_portfolio /* version checker */
 {
-	color: #000019;
-	background-color: #7631AA;
+	color: #00000E;
+	background-color: #B29C5B;
 }
 
 .html
@@ -32,7 +32,7 @@
 	padding-right: 9px;
 }
 
-#u173
+#u185
 {
 	z-index: 9;
 	width: 650px;
@@ -54,7 +54,7 @@
 	margin-left: 141px;
 }
 
-#u172
+#u184
 {
 	z-index: 8;
 	width: 826px;

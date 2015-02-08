@@ -1,11 +1,11 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1423420712273">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1423421421216">
   <folder name="css">
     <file name="site_global.css" crc="3830711657"/>
     <file name="master_b-master.css" crc="3819678052" ref="norsk-portfolio:english-portfolio"/>
     <file name="master_a-master.css" crc="4234209363" ref="index"/>
-    <file name="norsk-portfolio.css" crc="3861882177" ref="norsk-portfolio"/>
-    <file name="english-portfolio.css" crc="427176362" ref="english-portfolio"/>
+    <file name="norsk-portfolio.css" crc="4031833909" ref="norsk-portfolio"/>
     <file name="index.css" crc="3950373673" ref="index"/>
+    <file name="english-portfolio.css" crc="246586459" ref="english-portfolio"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:norsk-portfolio:english-portfolio"/>
@@ -17,7 +17,7 @@
     <file name="u158-4.png" crc="281304685" ref="index"/>
     <file name="u166-4.png" crc="281304685" ref="norsk-portfolio:english-portfolio"/>
   </folder>
-  <file name="index.html" crc="282180461" mt="1423420660694" redirect="true"/>
-  <file name="norsk-portfolio.html" crc="228466455" mt="1423420516398" redirect="true"/>
-  <file name="english-portfolio.html" crc="307002941" mt="1423420637168" redirect="true"/>
+  <file name="index.html" crc="282180461" mt="1423421408132" redirect="true"/>
+  <file name="norsk-portfolio.html" crc="101519009" mt="1423421401314" redirect="true"/>
+  <file name="english-portfolio.html" crc="3775357034" mt="1423421401315" redirect="true"/>
 </manifest>
