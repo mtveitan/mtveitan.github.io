@@ -1,4 +1,4 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1423497987883">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1423498109211">
   <folder name="css">
     <file name="site_global.css" crc="4101373237"/>
     <file name="master_b-master.css" crc="3819678052" ref="english-portfolio:norsk-portfolio"/>
@@ -18,6 +18,6 @@
     <file name="u223-4.png" crc="281304685" ref="index"/>
   </folder>
   <file name="index.html" crc="3978397852" mt="1423497977332" redirect="true"/>
-  <file name="norsk-portfolio.html" crc="4103839170" mt="1423497969897" redirect="true"/>
-  <file name="english-portfolio.html" crc="4222213323" mt="1423497969898" redirect="true"/>
+  <file name="norsk-portfolio.html" crc="4199266609" mt="1423498074675" redirect="true"/>
+  <file name="english-portfolio.html" crc="3782592332" mt="1423498074676" redirect="true"/>
 </manifest>
