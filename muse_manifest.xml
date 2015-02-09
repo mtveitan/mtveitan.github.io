@@ -1,8 +1,8 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1423515137314">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1423515315517">
   <folder name="css">
     <file name="site_global.css" crc="279865310"/>
     <file name="master_a-master.css" crc="403048445" ref="index:english:norsk"/>
-    <file name="index.css" crc="404518318" ref="index"/>
+    <file name="index.css" crc="183480201" ref="index"/>
     <file name="english.css" crc="16083796" ref="english"/>
     <file name="norsk.css" crc="365511113" ref="norsk"/>
   </folder>
@@ -15,7 +15,7 @@
     <file name="test02.png" crc="4050517643" ref="index"/>
     <file name="u102-4.png" crc="3840795477" ref="index:norsk:english"/>
   </folder>
-  <file name="index.html" crc="4221887998" mt="1423515103244" redirect="true"/>
+  <file name="index.html" crc="4221887998" mt="1423515296728" redirect="true"/>
   <file name="norsk.html" crc="300597343" mt="1423506198108" redirect="true"/>
   <file name="english.html" crc="4009787147" mt="1423514682841" redirect="true"/>
 </manifest>
