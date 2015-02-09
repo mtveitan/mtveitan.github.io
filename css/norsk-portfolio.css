@@ -1,7 +1,7 @@
 .version.norsk_portfolio /* version checker */
 {
-	color: #0000F0;
-	background-color: #50E735;
+	color: #000007;
+	background-color: #985416;
 }
 
 .html
@@ -32,18 +32,18 @@
 	padding-right: 9px;
 }
 
-#u177
+#u197
 {
 	z-index: 9;
-	width: 650px;
-	min-height: 459px;
+	width: 200px;
+	min-height: 100px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: fixed;
-	top: 98px;
+	top: 236px;
 	left: 50%;
-	margin-left: -325px;
+	margin-left: -100px;
 }
 
 #u166-4
