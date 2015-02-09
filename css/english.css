@@ -1,7 +1,7 @@
 .version.english /* version checker */
 {
-	color: #000018;
-	background-color: #657735;
+	color: #000000;
+	background-color: #F56B54;
 }
 
 .html
@@ -19,24 +19,24 @@
 	margin-right: auto;
 }
 
-#u110
+#u120
 {
 	z-index: 6;
-	width: 525px;
-	min-height: 371px;
+	width: 650px;
+	min-height: 459px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: fixed;
-	top: 101px;
+	top: 57px;
 	left: 50%;
-	margin-left: -263px;
+	margin-left: -325px;
 }
 
 #u102-4
 {
 	z-index: 2;
-	top: 497px;
+	top: 663px;
 	left: 50%;
 	margin-left: -124px;
 }
