@@ -1,7 +1,7 @@
 .version.norsk_portfolio /* version checker */
 {
 	color: #00000A;
-	background-color: #3D33FC;
+	background-color: #2DE5D2;
 }
 
 .html
@@ -51,7 +51,7 @@
 	z-index: 4;
 	top: 583px;
 	left: 50%;
-	margin-left: 13px;
+	margin-left: -170px;
 }
 
 #u91

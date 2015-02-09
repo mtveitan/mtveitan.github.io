@@ -1,11 +1,11 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1423497760597">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1423497987883">
   <folder name="css">
     <file name="site_global.css" crc="4101373237"/>
     <file name="master_b-master.css" crc="3819678052" ref="english-portfolio:norsk-portfolio"/>
-    <file name="master_a-master.css" crc="4234209363" ref="index"/>
-    <file name="english-portfolio.css" crc="3787392708" ref="english-portfolio"/>
-    <file name="index.css" crc="3950373673" ref="index"/>
-    <file name="norsk-portfolio.css" crc="171783164" ref="norsk-portfolio"/>
+    <file name="master_a-master.css" crc="3830224275" ref="index"/>
+    <file name="english-portfolio.css" crc="3910883560" ref="english-portfolio"/>
+    <file name="index.css" crc="4077368357" ref="index"/>
+    <file name="norsk-portfolio.css" crc="170780114" ref="norsk-portfolio"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:norsk-portfolio:english-portfolio"/>
@@ -14,10 +14,10 @@
   </folder>
   <folder name="images">
     <file name="logo.png" crc="334114062" ref="index:norsk-portfolio:english-portfolio"/>
-    <file name="u158-4.png" crc="281304685" ref="index"/>
     <file name="u166-4.png" crc="281304685" ref="norsk-portfolio:english-portfolio"/>
+    <file name="u223-4.png" crc="281304685" ref="index"/>
   </folder>
-  <file name="index.html" crc="282180461" mt="1423440754763" redirect="true"/>
-  <file name="norsk-portfolio.html" crc="4103839170" mt="1423497665640" redirect="true"/>
-  <file name="english-portfolio.html" crc="4222213323" mt="1423497697961" redirect="true"/>
+  <file name="index.html" crc="3978397852" mt="1423497977332" redirect="true"/>
+  <file name="norsk-portfolio.html" crc="4103839170" mt="1423497969897" redirect="true"/>
+  <file name="english-portfolio.html" crc="4222213323" mt="1423497969898" redirect="true"/>
 </manifest>

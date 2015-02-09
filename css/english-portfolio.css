@@ -1,7 +1,7 @@
 .version.english_portfolio /* version checker */
 {
-	color: #0000E1;
-	background-color: #BF06C4;
+	color: #0000E9;
+	background-color: #1B58E8;
 }
 
 .html
@@ -51,7 +51,7 @@
 	z-index: 4;
 	top: 583px;
 	left: 50%;
-	margin-left: 13px;
+	margin-left: -170px;
 }
 
 #u184
