@@ -1,23 +1,21 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1423498109211">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1423503712709">
   <folder name="css">
-    <file name="site_global.css" crc="4101373237"/>
-    <file name="master_b-master.css" crc="3819678052" ref="english-portfolio:norsk-portfolio"/>
-    <file name="master_a-master.css" crc="3830224275" ref="index"/>
-    <file name="english-portfolio.css" crc="3910883560" ref="english-portfolio"/>
-    <file name="index.css" crc="4077368357" ref="index"/>
-    <file name="norsk-portfolio.css" crc="170780114" ref="norsk-portfolio"/>
+    <file name="site_global.css" crc="9412482"/>
+    <file name="master_a-master.css" crc="403048445" ref="index:english:norsk"/>
+    <file name="index.css" crc="4086262360" ref="index"/>
+    <file name="english.css" crc="409302837" ref="english"/>
+    <file name="norsk.css" crc="361411557" ref="norsk"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:norsk-portfolio:english-portfolio"/>
-    <file name="museutils.js" crc="212726984" ref="index:norsk-portfolio:english-portfolio"/>
-    <file name="jquery.watch.js" crc="4125239756" ref="index:norsk-portfolio:english-portfolio"/>
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:norsk:english"/>
+    <file name="museutils.js" crc="212726984" ref="index:norsk:english"/>
+    <file name="jquery.watch.js" crc="4125239756" ref="index:norsk:english"/>
   </folder>
   <folder name="images">
-    <file name="logo.png" crc="334114062" ref="index:norsk-portfolio:english-portfolio"/>
-    <file name="u166-4.png" crc="281304685" ref="norsk-portfolio:english-portfolio"/>
-    <file name="u223-4.png" crc="281304685" ref="index"/>
+    <file name="test02.png" crc="4050517643" ref="index"/>
+    <file name="u102-4.png" crc="3840795477" ref="index:norsk:english"/>
   </folder>
-  <file name="index.html" crc="3978397852" mt="1423497977332" redirect="true"/>
-  <file name="norsk-portfolio.html" crc="4199266609" mt="1423498074675" redirect="true"/>
-  <file name="english-portfolio.html" crc="3782592332" mt="1423498074676" redirect="true"/>
+  <file name="index.html" crc="3982983093" mt="1423503712191" redirect="true"/>
+  <file name="norsk.html" crc="3837832293" mt="1423503644238" redirect="true"/>
+  <file name="english.html" crc="4045463089" mt="1423503644238" redirect="true"/>
 </manifest>
