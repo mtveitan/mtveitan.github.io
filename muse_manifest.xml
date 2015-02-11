@@ -1,10 +1,10 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1423658750970">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1423692914070">
   <folder name="css">
     <file name="site_global.css" crc="9412482"/>
-    <file name="master_a-master.css" crc="403048445" ref="index:norsk:english"/>
+    <file name="master_a-master.css" crc="403048445" ref="english:index:norsk"/>
+    <file name="english.css" crc="4088161579" ref="english"/>
     <file name="index.css" crc="492688243" ref="index"/>
-    <file name="norsk.css" crc="3979621079" ref="norsk"/>
-    <file name="english.css" crc="508504024" ref="english"/>
+    <file name="norsk.css" crc="401732064" ref="norsk"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:norsk:english"/>
@@ -17,6 +17,6 @@
     <file name="downloadicon.png" crc="3934582527" ref="norsk:english"/>
   </folder>
   <file name="index.html" crc="4221887998" mt="1423658728464" redirect="true"/>
-  <file name="norsk.html" crc="415997898" mt="1423658745924" redirect="true"/>
-  <file name="english.html" crc="3920894622" mt="1423658738745" redirect="true"/>
+  <file name="norsk.html" crc="4088032217" mt="1423692896996" redirect="true"/>
+  <file name="english.html" crc="177119235" mt="1423692904384" redirect="true"/>
 </manifest>

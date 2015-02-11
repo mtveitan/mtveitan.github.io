@@ -1,7 +1,7 @@
 .version.norsk /* version checker */
 {
-	color: #0000ED;
-	background-color: #3432D7;
+	color: #000017;
+	background-color: #F1F1E0;
 }
 
 .html
@@ -13,8 +13,8 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 438px;
-	padding-bottom: 62px;
+	min-height: 0px;
+	padding-bottom: 500px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -45,10 +45,10 @@
 {
 	z-index: 7;
 	width: 41px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 476px;
-	left: 759px;
+	position: fixed;
+	top: 512px;
+	left: 50%;
+	margin-left: 279px;
 }
 
 #u123_img
