@@ -1,7 +1,7 @@
 .version.norsk /* version checker */
 {
-	color: #000017;
-	background-color: #F1F1E0;
+	color: #00000D;
+	background-color: #6139DD;
 }
 
 .html
@@ -41,20 +41,18 @@
 	margin-left: -124px;
 }
 
-#u123
+#u136
 {
 	z-index: 7;
-	width: 41px;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: fixed;
-	top: 512px;
+	top: 504px;
 	left: 50%;
-	margin-left: 279px;
-}
-
-#u123_img
-{
-	padding-right: 1px;
-	padding-bottom: 1px;
+	margin-left: 285px;
 }
 
 body
